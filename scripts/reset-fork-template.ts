@@ -110,7 +110,8 @@ const RESET_SITE = {
     footer: {
       ctaLabel: "Create Your OpenLinks",
       description:
-        "OpenLinks is free and open source. It stores no cookies, and we will never serve ads. " +
+        "OpenLinks is a personal, free, open source links site. " +
+        "It stores no cookies, and we will never serve ads. " +
         "Welcome to the new Open Web, where privacy and freedom reign.",
       prompt: {
         enabled: true,
