@@ -65,6 +65,22 @@ test("resolveFooterPreferences keeps the default CTA canonical for fork builds w
   );
 });
 
+test("resolveFooterPreferences upgrades the explicit legacy starter footer description", () => {
+  // Arrange / Act
+  const preferences = resolveFooterPreferences(
+    createSite({
+      description:
+        "OpenLinks is a personal, free, open source, version-controlled links site.\nFork it, customize it, and publish fast.",
+    }),
+  );
+
+  // Assert
+  assert.equal(
+    preferences.description,
+    "OpenLinks is free and open source. It stores no cookies, and we will never serve ads. Welcome to the new Open Web, where privacy and freedom reign.",
+  );
+});
+
 test("resolveFooterPreferences trims custom prompt fields and respects explicit prompt toggles", () => {
   const preferences = resolveFooterPreferences(
     createSite({
