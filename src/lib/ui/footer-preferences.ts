@@ -22,7 +22,8 @@ export interface FooterPreferenceBuildContext {
 }
 
 const DEFAULT_DESCRIPTION =
-  "OpenLinks is a personal, free, open source, version-controlled links site.\nFork it, customize it, and publish fast.";
+  "OpenLinks is free and open source. It stores no cookies, and we will never serve ads. " +
+  "Welcome to the new Open Web, where privacy and freedom reign.";
 const DEFAULT_CTA_LABEL = "Create Your OpenLinks";
 const DEFAULT_PROMPT_TITLE = "Create your own OpenLinks site";
 const DEFAULT_PROMPT_EXPLANATION =
