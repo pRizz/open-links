@@ -217,6 +217,7 @@ const resolveRequiredAudienceKind = (
     case "instagram-public-profile":
     case "medium-public-feed":
     case "primal-public-profile":
+    case "rumble-public-profile":
     case "x-public-oembed":
       return "followers";
     default:
