@@ -10,7 +10,9 @@ import {
 
 const ROOT = process.cwd();
 const WORKFLOW_PATH = path.join(ROOT, ".github/workflows/nightly-follower-history.yml");
-const PUBLIC_RICH_SYNC_PATH = path.join(ROOT, "scripts/public-rich-sync.ts");
+const PUBLIC_RICH_SYNC_CONTRACTS_PATH = path.join(ROOT, "scripts/public-rich-sync-contracts.ts");
+const PUBLIC_RICH_SYNC_PROVIDERS_PATH = path.join(ROOT, "scripts/public-rich-sync-providers.ts");
+const PUBLIC_RICH_SYNC_SUPPORT_PATH = path.join(ROOT, "scripts/public-rich-sync-support.ts");
 const FOLLOWER_HISTORY_SYNC_PATH = path.join(ROOT, "scripts/sync-follower-history.ts");
 
 const requireLine = (workflowSource: string, needle: string) => {
@@ -107,23 +109,24 @@ test("nightly follower history defers public audience failures until after deplo
 
 test("nightly follower history includes Substack in the fresh public audience contract", () => {
   // Arrange
-  const publicRichSyncSource = fs.readFileSync(PUBLIC_RICH_SYNC_PATH, "utf8");
+  const publicRichSyncProvidersSource = fs.readFileSync(PUBLIC_RICH_SYNC_PROVIDERS_PATH, "utf8");
   const followerHistorySyncSource = fs.readFileSync(FOLLOWER_HISTORY_SYNC_PATH, "utf8");
 
   // Act / Assert
-  assert.match(publicRichSyncSource, /id:\s+"substack-public-profile"/u);
-  assert.match(publicRichSyncSource, /requiresSubscribersCount:\s+true/u);
+  assert.match(publicRichSyncProvidersSource, /"substack-public-profile":\s+\{/u);
+  assert.match(publicRichSyncProvidersSource, /requiresSubscribersCount:\s+true/u);
   assert.match(followerHistorySyncSource, /"substack-public-profile"/u);
 });
 
 test("nightly follower history passes Facebook Page metrics through public sync freshness", () => {
   // Arrange
-  const publicRichSyncSource = fs.readFileSync(PUBLIC_RICH_SYNC_PATH, "utf8");
+  const publicRichSyncContractsSource = fs.readFileSync(PUBLIC_RICH_SYNC_CONTRACTS_PATH, "utf8");
+  const publicRichSyncSupportSource = fs.readFileSync(PUBLIC_RICH_SYNC_SUPPORT_PATH, "utf8");
   const followerHistorySyncSource = fs.readFileSync(FOLLOWER_HISTORY_SYNC_PATH, "utf8");
 
   // Act / Assert
-  assert.match(publicRichSyncSource, /id:\s+"facebook-page-metrics"/u);
-  assert.match(publicRichSyncSource, /OPENLINKS_FACEBOOK_PAGE_ACCESS_TOKEN/u);
+  assert.match(publicRichSyncSupportSource, /id:\s+"facebook-page-metrics"/u);
+  assert.match(publicRichSyncContractsSource, /OPENLINKS_FACEBOOK_PAGE_ACCESS_TOKEN/u);
   assert.match(followerHistorySyncSource, /"facebook-page-metrics"/u);
 });
 
