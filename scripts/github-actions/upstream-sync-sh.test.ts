@@ -18,10 +18,10 @@ const writeExecutable = (filePath: string, contents: string) => {
 const createFakeGit = (binDir: string) => {
   writeExecutable(
     path.join(binDir, "git"),
-    `#!/bin/bash
+    `#!/bin/sh
 set -euo pipefail
 
-if [[ "$1" == "rev-parse" && "\${2:-}" == "HEAD" ]]; then
+if [ "$1" = "rev-parse" ] && [ "\${2:-}" = "HEAD" ]; then
   printf 'fake-head-sha\\n'
   exit 0
 fi
@@ -35,10 +35,10 @@ exit 1
 const createFakeBun = (binDir: string, exitCode: 0 | 1) => {
   writeExecutable(
     path.join(binDir, "bun"),
-    `#!/bin/bash
+    `#!/bin/sh
 set -euo pipefail
 
-if [[ "$1" == "run" && "\${2:-}" == "sync:upstream" && "\${3:-}" == "--json" ]]; then
+if [ "$1" = "run" ] && [ "\${2:-}" = "sync:upstream" ] && [ "\${3:-}" = "--json" ]; then
   cat <<'JSON'
 {
   "status": "${exitCode === 0 ? "up_to_date" : "conflict"}",

@@ -21,7 +21,7 @@ const requireLine = (workflowSource: string, needle: string) => {
   return index;
 };
 
-test("nightly follower history runs under production and commits before building or pushing", () => {
+test("nightly content refresh runs under production and commits before building or pushing", () => {
   const workflowSource = fs.readFileSync(WORKFLOW_PATH, "utf8");
 
   assert.match(
@@ -29,12 +29,26 @@ test("nightly follower history runs under production and commits before building
     /sync-and-deploy:\n\s+name: Sync Follower History and Deploy\n\s+runs-on: ubuntu-latest\n\s+environment:\n\s+name: production/u,
   );
 
-  const commitIndex = requireLine(workflowSource, "- name: Commit follower-history artifacts");
+  const persistCacheIndex = requireLine(
+    workflowSource,
+    "- name: Refresh committed public metadata cache",
+  );
+  const audienceIndex = requireLine(workflowSource, "- name: Refresh public audience cache");
+  const contentRefreshIndex = requireLine(
+    workflowSource,
+    "- name: Project refreshed cache into committed content",
+  );
+  const historyIndex = requireLine(workflowSource, "- name: Append follower history snapshots");
+  const commitIndex = requireLine(workflowSource, "- name: Commit nightly content artifacts");
   const buildIndex = requireLine(workflowSource, "- name: Build deploy artifacts");
-  const pushIndex = requireLine(workflowSource, "- name: Push follower-history artifacts");
+  const pushIndex = requireLine(workflowSource, "- name: Push nightly content artifacts");
   const awsCredentialsIndex = requireLine(workflowSource, "- name: Configure AWS credentials");
   const verifyIndex = requireLine(workflowSource, "- name: Verify enabled deployment targets");
 
+  assert.ok(persistCacheIndex < audienceIndex, "Expected stable cache persistence first.");
+  assert.ok(audienceIndex < contentRefreshIndex, "Expected audience refresh before projection.");
+  assert.ok(contentRefreshIndex < historyIndex, "Expected refreshed content before history.");
+  assert.ok(historyIndex < commitIndex, "Expected history append before the consolidated commit.");
   assert.ok(commitIndex < buildIndex, "Expected commit step to run before build.");
   assert.ok(buildIndex < pushIndex, "Expected build step to run before push.");
   assert.ok(pushIndex < awsCredentialsIndex, "Expected push step to run before AWS deploy.");
@@ -46,12 +60,35 @@ test("nightly follower history runs under production and commits before building
   );
   assert.match(
     workflowSource,
-    /- name: Push follower-history artifacts\n\s+if: steps\.commit\.outputs\.commit_result == 'committed'/u,
+    /- name: Push nightly content artifacts\n\s+if: steps\.commit\.outputs\.commit_result == 'committed'/u,
   );
   assert.match(
     workflowSource,
     /- name: Verify enabled deployment targets\n\s+if: steps\.push\.outputs\.push_result == 'pushed' && steps\.aws_opt_in\.outputs\.enabled == 'true'\n\s+run: bun run deploy:verify/u,
   );
+});
+
+test("nightly content refresh uses the explicit orchestrator and allow-listed staging", () => {
+  // Arrange
+  const workflowSource = fs.readFileSync(WORKFLOW_PATH, "utf8");
+  const helperSource = fs.readFileSync(
+    path.join(ROOT, "scripts/github-actions/nightly-follower-history.sh"),
+    "utf8",
+  );
+
+  // Act / Assert
+  assert.match(
+    workflowSource,
+    /- name: Project refreshed cache into committed content\n\s+run: bun run content:refresh -- --summary-json \.ci-diagnostics\/content-refresh-summary\.json/u,
+  );
+  assert.match(helperSource, /bun scripts\/stage-nightly-content\.ts/u);
+  assert.match(
+    helperSource,
+    /HUSKY=0 git commit -m "data: refresh nightly content and follower history"/u,
+  );
+  assert.match(helperSource, /data: refresh nightly content and follower history/u);
+  assert.doesNotMatch(helperSource, /--no-verify/u);
+  assert.doesNotMatch(helperSource, /git add data\/cache\/rich-public-cache\.json/u);
 });
 
 test("nightly follower history passes the committed SHA into the shared Pages deployment helpers", () => {
