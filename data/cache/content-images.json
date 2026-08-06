@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T07:57:41.625Z",
+  "generatedAt": "2026-08-06T09:41:07.007Z",
   "bySlot": {
     "link:primal:image": {
       "resolvedPath": "cache/content-images/433895ee9e31178b956d5a5ff8c19006fa6227ec7569373f15d66df759a116d5.jpg",
@@ -134,26 +134,26 @@
       "bytes": 3825
     },
     "link:youtube:image": {
-      "resolvedPath": "cache/content-images/fb66c99c9a2ff99060a5ccd7f8c16073ed2bd87e047c574862ed7a14f0f94721.jpg",
-      "updatedAt": "2026-08-04T07:57:39.294Z",
+      "resolvedPath": "cache/content-images/6fabf76241b5d9f8cb1ead853a10c1913dc6c0b5df969ca43043e772458291d1.jpg",
+      "updatedAt": "2026-08-06T09:41:05.955Z",
       "contentType": "image/jpeg",
       "bytes": 159216
     },
     "link:youtube:profileImage": {
-      "resolvedPath": "cache/content-images/fb66c99c9a2ff99060a5ccd7f8c16073ed2bd87e047c574862ed7a14f0f94721.jpg",
-      "updatedAt": "2026-08-04T07:57:39.601Z",
+      "resolvedPath": "cache/content-images/6fabf76241b5d9f8cb1ead853a10c1913dc6c0b5df969ca43043e772458291d1.jpg",
+      "updatedAt": "2026-08-06T09:41:06.103Z",
       "contentType": "image/jpeg",
       "bytes": 159216
     },
     "link:youtube:ogImage": {
-      "resolvedPath": "cache/content-images/fb66c99c9a2ff99060a5ccd7f8c16073ed2bd87e047c574862ed7a14f0f94721.jpg",
-      "updatedAt": "2026-08-04T07:57:39.636Z",
+      "resolvedPath": "cache/content-images/6fabf76241b5d9f8cb1ead853a10c1913dc6c0b5df969ca43043e772458291d1.jpg",
+      "updatedAt": "2026-08-06T09:41:06.112Z",
       "contentType": "image/jpeg",
       "bytes": 159216
     },
     "link:youtube:twitterImage": {
-      "resolvedPath": "cache/content-images/fb66c99c9a2ff99060a5ccd7f8c16073ed2bd87e047c574862ed7a14f0f94721.jpg",
-      "updatedAt": "2026-08-04T07:57:39.658Z",
+      "resolvedPath": "cache/content-images/6fabf76241b5d9f8cb1ead853a10c1913dc6c0b5df969ca43043e772458291d1.jpg",
+      "updatedAt": "2026-08-06T09:41:06.116Z",
       "contentType": "image/jpeg",
       "bytes": 159216
     },
