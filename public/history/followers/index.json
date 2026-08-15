@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T08:15:55.786Z",
+  "updatedAt": "2026-08-15T07:28:59.831Z",
   "entries": [
     {
       "linkId": "github",
@@ -12,7 +12,7 @@
       "csvPath": "history/followers/github.csv",
       "latestAudienceCount": 102,
       "latestAudienceCountRaw": "102 followers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     },
     {
       "linkId": "instagram",
@@ -36,7 +36,7 @@
       "csvPath": "history/followers/medium.csv",
       "latestAudienceCount": 3300,
       "latestAudienceCountRaw": "3.3K followers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     },
     {
       "linkId": "primal",
@@ -46,9 +46,9 @@
       "canonicalUrl": "https://primal.net/peterryszkiewicz",
       "audienceKind": "followers",
       "csvPath": "history/followers/primal.csv",
-      "latestAudienceCount": 24,
-      "latestAudienceCountRaw": "24 followers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestAudienceCount": 23,
+      "latestAudienceCountRaw": "23 followers",
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     },
     {
       "linkId": "substack",
@@ -60,7 +60,7 @@
       "csvPath": "history/followers/substack.csv",
       "latestAudienceCount": 15,
       "latestAudienceCountRaw": "15 subscribers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     },
     {
       "linkId": "x",
@@ -70,9 +70,9 @@
       "canonicalUrl": "https://x.com/pryszkie",
       "audienceKind": "followers",
       "csvPath": "history/followers/x.csv",
-      "latestAudienceCount": 1398,
-      "latestAudienceCountRaw": "1,398 Followers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestAudienceCount": 1397,
+      "latestAudienceCountRaw": "1,397 Followers",
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     },
     {
       "linkId": "youtube",
@@ -84,7 +84,7 @@
       "csvPath": "history/followers/youtube.csv",
       "latestAudienceCount": 21,
       "latestAudienceCountRaw": "21 subscribers",
-      "latestObservedAt": "2026-08-14T08:15:55.786Z"
+      "latestObservedAt": "2026-08-15T07:28:59.831Z"
     }
   ]
 }
