@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:41:43.321Z",
+  "generatedAt": "2026-08-21T07:43:37.396Z",
   "bySlot": {
     "link:primal:image": {
       "resolvedPath": "cache/content-images/433895ee9e31178b956d5a5ff8c19006fa6227ec7569373f15d66df759a116d5.jpg",
@@ -206,10 +206,10 @@
       "bytes": 27103
     },
     "link:substack:image": {
-      "resolvedPath": "cache/content-images/4cf38ce50cd8f31ba58b5ab83e3acbbf7c84b675adf85e6f8654e026c045ad82.jpg",
-      "updatedAt": "2026-08-20T07:41:40.915Z",
+      "resolvedPath": "cache/content-images/d36b47aee76aef70aa80138a1e89214d8c516f0cea24fe3bb53aaeb3838877f8.jpg",
+      "updatedAt": "2026-08-21T07:43:37.281Z",
       "contentType": "image/jpeg",
-      "bytes": 160830
+      "bytes": 179179
     },
     "link:substack:profileImage": {
       "resolvedPath": "cache/content-images/507a2bdb6baf0c2930e28c0f5a30f7c7b7f88ccbe6aef3975d7aa26a7ccb9e57.jpg",
@@ -218,16 +218,16 @@
       "bytes": 136060
     },
     "link:substack:ogImage": {
-      "resolvedPath": "cache/content-images/4cf38ce50cd8f31ba58b5ab83e3acbbf7c84b675adf85e6f8654e026c045ad82.jpg",
-      "updatedAt": "2026-08-20T07:41:43.287Z",
+      "resolvedPath": "cache/content-images/d36b47aee76aef70aa80138a1e89214d8c516f0cea24fe3bb53aaeb3838877f8.jpg",
+      "updatedAt": "2026-08-21T07:43:37.372Z",
       "contentType": "image/jpeg",
-      "bytes": 160830
+      "bytes": 179179
     },
     "link:substack:twitterImage": {
-      "resolvedPath": "cache/content-images/4cf38ce50cd8f31ba58b5ab83e3acbbf7c84b675adf85e6f8654e026c045ad82.jpg",
-      "updatedAt": "2026-08-20T07:41:43.317Z",
+      "resolvedPath": "cache/content-images/d36b47aee76aef70aa80138a1e89214d8c516f0cea24fe3bb53aaeb3838877f8.jpg",
+      "updatedAt": "2026-08-21T07:43:37.387Z",
       "contentType": "image/jpeg",
-      "bytes": 160830
+      "bytes": 179179
     }
   }
 }
