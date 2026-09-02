@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:21:11.152Z",
+  "generatedAt": "2026-09-02T11:59:11.641Z",
   "links": {
     "primal": {
       "metadata": {
@@ -48,11 +48,11 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-08-29T12:53:46.685Z",
+        "enrichedAt": "2026-09-02T11:52:57.656Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1395,
-        "followersCountRaw": "1,395 Followers",
+        "followersCount": 1394,
+        "followersCountRaw": "1,394 Followers",
         "followingCount": 831,
         "followingCountRaw": "831 Following"
       }
