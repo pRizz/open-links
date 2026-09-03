@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:59:11.641Z",
+  "generatedAt": "2026-09-03T11:57:09.967Z",
   "links": {
     "primal": {
       "metadata": {
@@ -31,10 +31,10 @@
         "sourceLabel": "github.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-08-28T19:09:23.643Z",
+        "enrichedAt": "2026-09-03T11:50:38.417Z",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
-        "followersCount": 102,
-        "followersCountRaw": "102 followers",
+        "followersCount": 103,
+        "followersCountRaw": "103 followers",
         "followingCount": 107,
         "followingCountRaw": "107 following"
       }
@@ -48,13 +48,13 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-09-02T11:52:57.656Z",
+        "enrichedAt": "2026-09-03T11:51:02.962Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1394,
-        "followersCountRaw": "1,394 Followers",
-        "followingCount": 831,
-        "followingCountRaw": "831 Following"
+        "followersCount": 1393,
+        "followersCountRaw": "1,393 Followers",
+        "followingCount": 832,
+        "followingCountRaw": "832 Following"
       }
     },
     "linkedin": {
