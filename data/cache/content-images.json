@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:57:16.735Z",
+  "generatedAt": "2026-09-06T11:38:22.998Z",
   "bySlot": {
     "link:primal:image": {
       "resolvedPath": "cache/content-images/433895ee9e31178b956d5a5ff8c19006fa6227ec7569373f15d66df759a116d5.jpg",
@@ -134,28 +134,28 @@
       "bytes": 3825
     },
     "link:youtube:image": {
-      "resolvedPath": "cache/content-images/4e930890137e6869e827c3127e517d89c5af3b387607aa3596a9dde312837ed9.jpg",
-      "updatedAt": "2026-09-03T11:57:15.977Z",
+      "resolvedPath": "cache/content-images/f9ec503982c30321545de65aaae76ceed508926d0790712c8a2f694283ad276f.jpg",
+      "updatedAt": "2026-09-06T11:38:21.128Z",
       "contentType": "image/jpeg",
-      "bytes": 159220
+      "bytes": 159201
     },
     "link:youtube:profileImage": {
-      "resolvedPath": "cache/content-images/4e930890137e6869e827c3127e517d89c5af3b387607aa3596a9dde312837ed9.jpg",
-      "updatedAt": "2026-09-03T11:57:16.169Z",
+      "resolvedPath": "cache/content-images/f9ec503982c30321545de65aaae76ceed508926d0790712c8a2f694283ad276f.jpg",
+      "updatedAt": "2026-09-06T11:38:21.351Z",
       "contentType": "image/jpeg",
-      "bytes": 159220
+      "bytes": 159201
     },
     "link:youtube:ogImage": {
-      "resolvedPath": "cache/content-images/4e930890137e6869e827c3127e517d89c5af3b387607aa3596a9dde312837ed9.jpg",
-      "updatedAt": "2026-09-03T11:57:16.178Z",
+      "resolvedPath": "cache/content-images/f9ec503982c30321545de65aaae76ceed508926d0790712c8a2f694283ad276f.jpg",
+      "updatedAt": "2026-09-06T11:38:21.384Z",
       "contentType": "image/jpeg",
-      "bytes": 159220
+      "bytes": 159201
     },
     "link:youtube:twitterImage": {
-      "resolvedPath": "cache/content-images/4e930890137e6869e827c3127e517d89c5af3b387607aa3596a9dde312837ed9.jpg",
-      "updatedAt": "2026-09-03T11:57:16.182Z",
+      "resolvedPath": "cache/content-images/f9ec503982c30321545de65aaae76ceed508926d0790712c8a2f694283ad276f.jpg",
+      "updatedAt": "2026-09-06T11:38:21.407Z",
       "contentType": "image/jpeg",
-      "bytes": 159220
+      "bytes": 159201
     },
     "link:rumble:image": {
       "resolvedPath": "cache/content-images/44259fb6e7333689f1e8df90b69612e03a825dd9613dc5cabea446a102f720f7.jpg",
