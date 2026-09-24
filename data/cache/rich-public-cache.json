@@ -35,7 +35,7 @@
       "linkId": "github",
       "sourceUrl": "https://github.com/pRizz",
       "capturedAt": "2026-03-08T20:34:49.144Z",
-      "updatedAt": "2026-09-12T11:23:22.791Z",
+      "updatedAt": "2026-09-24T12:25:55.775Z",
       "metadata": {
         "title": "pRizz - Overview",
         "description": "An agentic engineer, making things in the AI space, Bitcoin space, and many others. - pRizz",
@@ -46,10 +46,10 @@
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
         "followersCount": 106,
         "followersCountRaw": "106 followers",
-        "followingCount": 107,
-        "followingCountRaw": "107 following"
+        "followingCount": 108,
+        "followingCountRaw": "108 following"
       },
-      "etag": "W/\"b7ab5148e4823fec38caa9f216fc97ef\""
+      "etag": "W/\"03b1b6aa0e5e918a12017c7507ebaaf7\""
     },
     "instagram": {
       "linkId": "instagram",
@@ -98,7 +98,7 @@
       "linkId": "primal",
       "sourceUrl": "https://primal.net/peterryszkiewicz",
       "capturedAt": "2026-03-08T20:34:49.144Z",
-      "updatedAt": "2026-09-17T12:19:08.490Z",
+      "updatedAt": "2026-09-24T12:26:01.986Z",
       "metadata": {
         "title": "Peter No Taxation Without Representation Ryszkiewicz",
         "description": "Agentic engineer, making things in the AI space, Bitcoin space, and many others.",
@@ -108,8 +108,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "primal.net",
         "profileImage": "https://primal.net/media-cache?u=https%3A%2F%2Fr2.primal.net%2Fcache%2Fe%2F83%2Fb2%2Fe83b2b9f3de47e969ff7ef97b9ddfffb1673671ba25f5ca83421b73ffd0f9ec9.jpg",
-        "followersCount": 27,
-        "followersCountRaw": "27 followers",
+        "followersCount": 28,
+        "followersCountRaw": "28 followers",
         "followingCount": 100,
         "followingCountRaw": "100 following"
       }
@@ -177,7 +177,7 @@
         "followingCount": 834,
         "followingCountRaw": "834 Following"
       },
-      "lastModified": "Wed, 23 Sep 2026 12:26:46 GMT"
+      "lastModified": "Thu, 24 Sep 2026 12:25:56 GMT"
     },
     "youtube": {
       "linkId": "youtube",
