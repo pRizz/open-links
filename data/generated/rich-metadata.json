@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:37:01.468Z",
+  "generatedAt": "2026-09-25T12:37:11.115Z",
   "links": {
     "primal": {
       "metadata": {
@@ -31,10 +31,10 @@
         "sourceLabel": "github.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-09-24T12:25:55.775Z",
+        "enrichedAt": "2026-09-25T12:25:57.768Z",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
-        "followersCount": 106,
-        "followersCountRaw": "106 followers",
+        "followersCount": 107,
+        "followersCountRaw": "107 followers",
         "followingCount": 108,
         "followingCountRaw": "108 following"
       }
