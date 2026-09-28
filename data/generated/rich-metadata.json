@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:51:31.988Z",
+  "generatedAt": "2026-09-28T14:50:13.954Z",
   "links": {
     "primal": {
       "metadata": {
@@ -48,13 +48,13 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-09-17T12:24:03.387Z",
+        "enrichedAt": "2026-09-28T14:44:00.841Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1391,
-        "followersCountRaw": "1,391 Followers",
-        "followingCount": 834,
-        "followingCountRaw": "834 Following"
+        "followersCount": 1399,
+        "followersCountRaw": "1,399 Followers",
+        "followingCount": 847,
+        "followingCountRaw": "847 Following"
       }
     },
     "linkedin": {
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-09-27T12:35:38.579Z",
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:22:24.909Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
