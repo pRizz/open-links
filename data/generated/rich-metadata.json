@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:50:13.954Z",
+  "generatedAt": "2026-09-29T13:44:53.935Z",
   "links": {
     "primal": {
       "metadata": {
@@ -60,13 +60,13 @@
     "linkedin": {
       "metadata": {
         "title": "Peter Ryszkiewicz | LinkedIn",
-        "description": "Talented software engineer, excited to work on new and challenging problems. · Experience: Venmo · Education: Illinois Institute of Technology · Location: Chicago · 211 connections on LinkedIn. View Peter Ryszkiewicz’s profile on LinkedIn, a professional community of 1 billion members.",
+        "description": "Talented software engineer, excited to work on new and challenging problems. · Experience: Venmo · Education: Illinois Institute of Technology · Location: Chicago · 214 connections on LinkedIn. View Peter Ryszkiewicz’s profile on LinkedIn, a professional community of 1 billion members.",
         "image": "cache/rich-authenticated/5bcebfa287d18d2319b5ccd869ee8eee18ae3a711ac0343bd32fb196a64e859b.jpg",
         "handle": "peter-ryszkiewicz",
         "sourceLabel": "linkedin.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "authenticated_cache",
-        "enrichedAt": "2026-09-23T12:26:45.403Z",
+        "enrichedAt": "2026-09-29T13:33:34.734Z",
         "profileDescription": "Software Engineer",
         "profileImage": "cache/rich-authenticated/5bcebfa287d18d2319b5ccd869ee8eee18ae3a711ac0343bd32fb196a64e859b.jpg"
       }
