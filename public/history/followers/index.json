@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T14:12:53.729Z",
+  "updatedAt": "2026-10-02T13:35:58.239Z",
   "entries": [
     {
       "linkId": "github",
@@ -12,7 +12,7 @@
       "csvPath": "history/followers/github.csv",
       "latestAudienceCount": 107,
       "latestAudienceCountRaw": "107 followers",
-      "latestObservedAt": "2026-10-01T14:12:53.729Z"
+      "latestObservedAt": "2026-10-02T13:35:58.239Z"
     },
     {
       "linkId": "instagram",
@@ -36,7 +36,7 @@
       "csvPath": "history/followers/medium.csv",
       "latestAudienceCount": 3300,
       "latestAudienceCountRaw": "3.3K followers",
-      "latestObservedAt": "2026-10-01T14:12:53.729Z"
+      "latestObservedAt": "2026-10-02T13:35:58.239Z"
     },
     {
       "linkId": "primal",
@@ -48,7 +48,7 @@
       "csvPath": "history/followers/primal.csv",
       "latestAudienceCount": 29,
       "latestAudienceCountRaw": "29 followers",
-      "latestObservedAt": "2026-10-01T14:12:53.729Z"
+      "latestObservedAt": "2026-10-02T13:35:58.239Z"
     },
     {
       "linkId": "substack",
@@ -60,7 +60,7 @@
       "csvPath": "history/followers/substack.csv",
       "latestAudienceCount": 15,
       "latestAudienceCountRaw": "15 subscribers",
-      "latestObservedAt": "2026-10-01T14:12:53.729Z"
+      "latestObservedAt": "2026-10-02T13:35:58.239Z"
     },
     {
       "linkId": "x",
@@ -84,7 +84,7 @@
       "csvPath": "history/followers/youtube.csv",
       "latestAudienceCount": 22,
       "latestAudienceCountRaw": "22 subscribers",
-      "latestObservedAt": "2026-10-01T14:12:53.729Z"
+      "latestObservedAt": "2026-10-02T13:35:58.239Z"
     }
   ]
 }
