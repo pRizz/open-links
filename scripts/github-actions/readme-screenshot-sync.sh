@@ -125,7 +125,7 @@ capture_viewport_screenshot() {
   local minimum_bytes="$4"
   local capture_url="$5"
 
-  npx --yes playwright@1.52.0 screenshot \
+  bunx --no-install playwright screenshot \
     --viewport-size="$viewport_size" \
     --timeout=120000 \
     --wait-for-selector=".profile-header" \

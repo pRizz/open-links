@@ -86,6 +86,26 @@ test("keeps exact-match domains scoped when subdomains are not allowed", () => {
   assert.equal(subdomainMiss, null);
 });
 
+for (const host of ["cluborange.org", "www.cluborange.org"]) {
+  test(`shared policy covers Club Orange content images on ${host}`, () => {
+    // Arrange
+    const registry = loadRemoteCachePolicyRegistry({
+      maybeLocalPolicyPath: path.join(os.tmpdir(), "openlinks-no-local-policy.json"),
+    });
+
+    // Act
+    const maybeMatch = resolveRemoteCachePolicyRule({
+      registry,
+      pipeline: "content_images",
+      url: `https://${host}/images/og/bitcoin-social-layer.jpg`,
+    });
+
+    // Assert
+    assert.equal(maybeMatch?.matchedDomain, "cluborange.org");
+    assert.equal(maybeMatch?.rule.checkMode, "head_then_get");
+  });
+}
+
 test("loads the shared remote cache policy when no local overlay exists", () => {
   withTempPolicyFiles(({ localPolicyPath, policyPath }) => {
     // Arrange

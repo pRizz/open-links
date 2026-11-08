@@ -18,7 +18,7 @@ jobs:
   sync-main:
     name: Sync README Screenshot (Direct Push)
     if: github.actor != 'github-actions[bot]'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       PAGES_BASE_MODE: root
       BASE_PATH: ""
@@ -55,7 +55,7 @@ jobs:
         run: bun run build
 
       - name: Install Playwright Chromium
-        run: npx --yes playwright@1.52.0 install --with-deps chromium
+        run: bunx --no-install playwright install --with-deps chromium
 
       - name: Start preview server
         id: preview
@@ -93,7 +93,7 @@ jobs:
 
   fallback-pr:
     name: Sync README Screenshot (Fallback PR)
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs:
       - sync-main
     if: needs.sync-main.outputs.push_result == 'blocked'
@@ -131,7 +131,7 @@ jobs:
         run: bun run build
 
       - name: Install Playwright Chromium
-        run: npx --yes playwright@1.52.0 install --with-deps chromium
+        run: bunx --no-install playwright install --with-deps chromium
 
       - name: Start preview server
         id: preview
