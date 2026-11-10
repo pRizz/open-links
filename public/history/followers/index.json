@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T17:14:38.106Z",
+  "updatedAt": "2026-11-10T15:32:07.562Z",
   "entries": [
     {
       "linkId": "github",
@@ -10,9 +10,9 @@
       "canonicalUrl": "https://github.com/pRizz",
       "audienceKind": "followers",
       "csvPath": "history/followers/github.csv",
-      "latestAudienceCount": 108,
-      "latestAudienceCountRaw": "108 followers",
-      "latestObservedAt": "2026-11-09T17:14:38.106Z"
+      "latestAudienceCount": 106,
+      "latestAudienceCountRaw": "106 followers",
+      "latestObservedAt": "2026-11-10T15:32:07.562Z"
     },
     {
       "linkId": "instagram",
@@ -36,7 +36,7 @@
       "csvPath": "history/followers/medium.csv",
       "latestAudienceCount": 3300,
       "latestAudienceCountRaw": "3.3K followers",
-      "latestObservedAt": "2026-11-09T17:14:38.106Z"
+      "latestObservedAt": "2026-11-10T15:32:07.562Z"
     },
     {
       "linkId": "primal",
@@ -48,7 +48,7 @@
       "csvPath": "history/followers/primal.csv",
       "latestAudienceCount": 27,
       "latestAudienceCountRaw": "27 followers",
-      "latestObservedAt": "2026-11-09T17:14:38.106Z"
+      "latestObservedAt": "2026-11-10T15:32:07.562Z"
     },
     {
       "linkId": "substack",
@@ -70,9 +70,9 @@
       "canonicalUrl": "https://x.com/pryszkie",
       "audienceKind": "followers",
       "csvPath": "history/followers/x.csv",
-      "latestAudienceCount": 1399,
-      "latestAudienceCountRaw": "1,399 Followers",
-      "latestObservedAt": "2026-09-28T14:50:28.961Z"
+      "latestAudienceCount": 1375,
+      "latestAudienceCountRaw": "1,375 Followers",
+      "latestObservedAt": "2026-11-10T15:32:07.562Z"
     },
     {
       "linkId": "youtube",
@@ -84,7 +84,7 @@
       "csvPath": "history/followers/youtube.csv",
       "latestAudienceCount": 26,
       "latestAudienceCountRaw": "26 subscribers",
-      "latestObservedAt": "2026-11-09T17:14:38.106Z"
+      "latestObservedAt": "2026-11-10T15:32:07.562Z"
     }
   ]
 }

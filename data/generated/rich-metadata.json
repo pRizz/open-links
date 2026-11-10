@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:14:26.961Z",
+  "generatedAt": "2026-11-10T15:31:53.869Z",
   "links": {
     "primal": {
       "metadata": {
@@ -31,10 +31,10 @@
         "sourceLabel": "github.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-09T16:59:10.433Z",
+        "enrichedAt": "2026-11-10T15:18:57.639Z",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
-        "followersCount": 108,
-        "followersCountRaw": "108 followers",
+        "followersCount": 106,
+        "followersCountRaw": "106 followers",
         "followingCount": 110,
         "followingCountRaw": "110 following"
       }
@@ -48,13 +48,13 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-09-28T14:44:00.841Z",
+        "enrichedAt": "2026-11-10T15:19:21.685Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1399,
-        "followersCountRaw": "1,399 Followers",
-        "followingCount": 847,
-        "followingCountRaw": "847 Following"
+        "followersCount": 1375,
+        "followersCountRaw": "1,375 Followers",
+        "followingCount": 851,
+        "followingCountRaw": "851 Following"
       }
     },
     "linkedin": {
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-09T16:59:10.433Z",
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:22:24.909Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"

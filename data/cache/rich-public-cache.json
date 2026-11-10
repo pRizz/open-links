@@ -29,14 +29,14 @@
         "twitterImage": "https://cluborange.org/images/og/bitcoin-social-layer.jpg",
         "sourceLabel": "signup.cluborange.org"
       },
-      "etag": "\"wns3qg2lwt13r1\"",
+      "etag": "\"2u0z8smxhb13t0\"",
       "lastModified": "Tue, 06 Oct 2026 13:47:28 GMT"
     },
     "github": {
       "linkId": "github",
       "sourceUrl": "https://github.com/pRizz",
       "capturedAt": "2026-03-08T20:34:49.144Z",
-      "updatedAt": "2026-11-09T16:59:10.433Z",
+      "updatedAt": "2026-11-10T15:18:57.639Z",
       "metadata": {
         "title": "pRizz - Overview",
         "description": "An agentic engineer, making things in the AI space, Bitcoin space, and many others. - pRizz",
@@ -45,12 +45,12 @@
         "twitterImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
         "sourceLabel": "github.com",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
-        "followersCount": 108,
-        "followersCountRaw": "108 followers",
+        "followersCount": 106,
+        "followersCountRaw": "106 followers",
         "followingCount": 110,
         "followingCountRaw": "110 following"
       },
-      "etag": "W/\"1c2efa7941d66276120511a5f64fa34d\""
+      "etag": "W/\"5a6d9fb33fe83496e3408bf8d21e7d95\""
     },
     "instagram": {
       "linkId": "instagram",
@@ -165,7 +165,7 @@
       "linkId": "x",
       "sourceUrl": "https://publish.twitter.com/oembed?url=https%3A%2F%2Ftwitter.com%2Fpryszkie&omit_script=true&hide_thread=true&dnt=true",
       "capturedAt": "2026-03-08T19:05:44.872Z",
-      "updatedAt": "2026-09-28T14:44:00.841Z",
+      "updatedAt": "2026-11-10T15:19:21.685Z",
       "metadata": {
         "title": "@pryszkie on X",
         "description": "Posts and updates from @pryszkie on X.",
@@ -173,12 +173,12 @@
         "image": "https://unavatar.io/x/pryszkie",
         "sourceLabel": "x.com",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1399,
-        "followersCountRaw": "1,399 Followers",
-        "followingCount": 847,
-        "followingCountRaw": "847 Following"
+        "followersCount": 1375,
+        "followersCountRaw": "1,375 Followers",
+        "followingCount": 851,
+        "followingCountRaw": "851 Following"
       },
-      "lastModified": "Mon, 09 Nov 2026 16:59:11 GMT"
+      "lastModified": "Tue, 10 Nov 2026 15:18:59 GMT"
     },
     "youtube": {
       "linkId": "youtube",
