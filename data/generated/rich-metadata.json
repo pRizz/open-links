@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:31:53.869Z",
+  "generatedAt": "2026-11-11T15:04:11.566Z",
   "links": {
     "primal": {
       "metadata": {
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-03-08T20:22:24.909Z",
+        "enrichmentReason": "metadata_complete",
+        "enrichedAt": "2026-11-11T14:49:08.579Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
