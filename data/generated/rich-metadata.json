@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:53:51.717Z",
+  "generatedAt": "2026-11-13T15:19:10.989Z",
   "links": {
     "primal": {
       "metadata": {
@@ -114,14 +114,14 @@
     "cluborange-referral": {
       "metadata": {
         "title": "Join Club Orange — Connect with 20K+ Bitcoiners",
-        "description": "Join 20K+ Bitcoiners in 71 countries. Get a Club Orange membership starting at $40/year or pay in sats. Find local meetups, events, merchants, and friends.",
+        "description": "Join 20K+ Bitcoiners in 71 countries. Get a Club Orange membership starting at $29.99/year, or pay in sats for 21% off. Find local meetups, events, merchants, and friends.",
         "image": "https://cluborange.org/images/og/bitcoin-social-layer.jpg",
         "ogImage": "https://cluborange.org/images/og/bitcoin-social-layer.jpg",
         "twitterImage": "https://cluborange.org/images/og/bitcoin-social-layer.jpg",
         "sourceLabel": "signup.cluborange.org",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-09T16:59:10.433Z"
+        "enrichedAt": "2026-11-13T14:59:29.162Z"
       },
       "referral": {
         "catalogRef": {
@@ -132,9 +132,9 @@
         "kind": "referral",
         "ownerBenefit": "Supports the project",
         "offerSummary": "Join Club Orange — Connect with 20K+ Bitcoiners",
-        "termsSummary": "Get a Club Orange membership starting at $40/year or pay in sats.",
+        "termsSummary": "Get a Club Orange membership starting at $29.99/year, or pay in sats for 21% off.",
         "termsUrl": "https://www.cluborange.org/signup?referral=pryszkie",
-        "visitorBenefit": "Get a Club Orange membership starting at $40/year or pay in sats.",
+        "visitorBenefit": "Get a Club Orange membership starting at $29.99/year, or pay in sats for 21% off.",
         "originalUrl": "https://signup.cluborange.org/co/pryszkie",
         "resolvedUrl": "https://www.cluborange.org/signup?referral=pryszkie",
         "strategyId": "cluborange-referral-signup",
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-03-08T20:22:24.909Z",
+        "enrichmentReason": "metadata_complete",
+        "enrichedAt": "2026-11-13T14:59:29.162Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
