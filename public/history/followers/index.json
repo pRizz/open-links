@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:53:07.862Z",
+  "updatedAt": "2026-11-17T16:41:08.224Z",
   "entries": [
     {
       "linkId": "github",
@@ -12,7 +12,7 @@
       "csvPath": "history/followers/github.csv",
       "latestAudienceCount": 106,
       "latestAudienceCountRaw": "106 followers",
-      "latestObservedAt": "2026-11-16T16:53:07.862Z"
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     },
     {
       "linkId": "instagram",
@@ -36,7 +36,7 @@
       "csvPath": "history/followers/medium.csv",
       "latestAudienceCount": 3300,
       "latestAudienceCountRaw": "3.3K followers",
-      "latestObservedAt": "2026-11-16T16:53:07.862Z"
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     },
     {
       "linkId": "primal",
@@ -48,7 +48,7 @@
       "csvPath": "history/followers/primal.csv",
       "latestAudienceCount": 27,
       "latestAudienceCountRaw": "27 followers",
-      "latestObservedAt": "2026-11-16T16:53:07.862Z"
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     },
     {
       "linkId": "substack",
@@ -58,9 +58,9 @@
       "canonicalUrl": "https://peter.ryszkiewicz.us/",
       "audienceKind": "subscribers",
       "csvPath": "history/followers/substack.csv",
-      "latestAudienceCount": 15,
-      "latestAudienceCountRaw": "15 subscribers",
-      "latestObservedAt": "2026-10-06T13:58:36.002Z"
+      "latestAudienceCount": 14,
+      "latestAudienceCountRaw": "14 subscribers",
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     },
     {
       "linkId": "x",
@@ -70,9 +70,9 @@
       "canonicalUrl": "https://x.com/pryszkie",
       "audienceKind": "followers",
       "csvPath": "history/followers/x.csv",
-      "latestAudienceCount": 1376,
-      "latestAudienceCountRaw": "1,376 Followers",
-      "latestObservedAt": "2026-11-12T15:54:02.857Z"
+      "latestAudienceCount": 1374,
+      "latestAudienceCountRaw": "1,374 Followers",
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     },
     {
       "linkId": "youtube",
@@ -82,9 +82,9 @@
       "canonicalUrl": "https://www.youtube.com/@peterryszkiewicz4354",
       "audienceKind": "subscribers",
       "csvPath": "history/followers/youtube.csv",
-      "latestAudienceCount": 26,
-      "latestAudienceCountRaw": "26 subscribers",
-      "latestObservedAt": "2026-11-16T16:53:07.862Z"
+      "latestAudienceCount": 27,
+      "latestAudienceCountRaw": "27 subscribers",
+      "latestObservedAt": "2026-11-17T16:41:08.224Z"
     }
   ]
 }
