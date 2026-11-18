@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:40:57.994Z",
+  "generatedAt": "2026-11-18T16:23:08.057Z",
   "links": {
     "primal": {
       "metadata": {
@@ -31,10 +31,10 @@
         "sourceLabel": "github.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-10T15:18:57.639Z",
+        "enrichedAt": "2026-11-18T16:03:24.048Z",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
-        "followersCount": 106,
-        "followersCountRaw": "106 followers",
+        "followersCount": 107,
+        "followersCountRaw": "107 followers",
         "followingCount": 110,
         "followingCountRaw": "110 following"
       }
@@ -189,10 +189,10 @@
         "sourceLabel": "youtube.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-17T16:34:57.696Z",
+        "enrichedAt": "2026-11-18T16:03:24.048Z",
         "profileImage": "https://yt3.googleusercontent.com/I94Dzwhg2Hm5nSo1Kmdf2C0DHKqSMOmPyW4WKPZKsPrdTozJ4VGFYT8a_RWx4qaeUrvLTUGXxg=s900-c-k-c0x00ffffff-no-rj",
-        "subscribersCount": 27,
-        "subscribersCountRaw": "27 subscribers"
+        "subscribersCount": 28,
+        "subscribersCountRaw": "28 subscribers"
       }
     },
     "rumble": {
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-03-08T20:22:24.909Z",
+        "enrichmentReason": "metadata_complete",
+        "enrichedAt": "2026-11-18T16:03:24.048Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
@@ -246,9 +246,11 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "peter.ryszkiewicz.us",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-17T16:34:57.696Z",
-        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg"
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:34:49.144Z",
+        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg",
+        "subscribersCount": 14,
+        "subscribersCountRaw": "14 subscribers"
       }
     },
     "lemonade-referral": {

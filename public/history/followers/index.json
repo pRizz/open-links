@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:41:08.224Z",
+  "updatedAt": "2026-11-18T16:23:20.320Z",
   "entries": [
     {
       "linkId": "github",
@@ -10,9 +10,9 @@
       "canonicalUrl": "https://github.com/pRizz",
       "audienceKind": "followers",
       "csvPath": "history/followers/github.csv",
-      "latestAudienceCount": 106,
-      "latestAudienceCountRaw": "106 followers",
-      "latestObservedAt": "2026-11-17T16:41:08.224Z"
+      "latestAudienceCount": 107,
+      "latestAudienceCountRaw": "107 followers",
+      "latestObservedAt": "2026-11-18T16:23:20.320Z"
     },
     {
       "linkId": "instagram",
@@ -48,7 +48,7 @@
       "csvPath": "history/followers/primal.csv",
       "latestAudienceCount": 27,
       "latestAudienceCountRaw": "27 followers",
-      "latestObservedAt": "2026-11-17T16:41:08.224Z"
+      "latestObservedAt": "2026-11-18T16:23:20.320Z"
     },
     {
       "linkId": "substack",
@@ -82,9 +82,9 @@
       "canonicalUrl": "https://www.youtube.com/@peterryszkiewicz4354",
       "audienceKind": "subscribers",
       "csvPath": "history/followers/youtube.csv",
-      "latestAudienceCount": 27,
-      "latestAudienceCountRaw": "27 subscribers",
-      "latestObservedAt": "2026-11-17T16:41:08.224Z"
+      "latestAudienceCount": 28,
+      "latestAudienceCountRaw": "28 subscribers",
+      "latestObservedAt": "2026-11-18T16:23:20.320Z"
     }
   ]
 }
