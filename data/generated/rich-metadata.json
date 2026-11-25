@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:43:35.724Z",
+  "generatedAt": "2026-11-25T17:52:44.633Z",
   "links": {
     "primal": {
       "metadata": {
@@ -48,13 +48,13 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-11-17T16:35:23.168Z",
+        "enrichedAt": "2026-11-25T17:42:46.521Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1374,
-        "followersCountRaw": "1,374 Followers",
-        "followingCount": 852,
-        "followingCountRaw": "852 Following"
+        "followersCount": 1370,
+        "followersCountRaw": "1,370 Followers",
+        "followingCount": 853,
+        "followingCountRaw": "853 Following"
       }
     },
     "linkedin": {
@@ -189,10 +189,10 @@
         "sourceLabel": "youtube.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-18T16:03:24.048Z",
+        "enrichedAt": "2026-11-25T17:42:25.236Z",
         "profileImage": "https://yt3.googleusercontent.com/I94Dzwhg2Hm5nSo1Kmdf2C0DHKqSMOmPyW4WKPZKsPrdTozJ4VGFYT8a_RWx4qaeUrvLTUGXxg=s900-c-k-c0x00ffffff-no-rj",
-        "subscribersCount": 28,
-        "subscribersCountRaw": "28 subscribers"
+        "subscribersCount": 29,
+        "subscribersCountRaw": "29 subscribers"
       }
     },
     "rumble": {
@@ -216,8 +216,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-22T14:58:17.077Z",
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:22:24.909Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
@@ -246,11 +246,9 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "peter.ryszkiewicz.us",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-03-08T20:34:49.144Z",
-        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg",
-        "subscribersCount": 14,
-        "subscribersCountRaw": "14 subscribers"
+        "enrichmentReason": "metadata_complete",
+        "enrichedAt": "2026-11-25T17:42:25.236Z",
+        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg"
       }
     },
     "lemonade-referral": {
