@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:52:44.633Z",
+  "generatedAt": "2026-11-26T17:41:02.343Z",
   "strict": true,
   "summary": {
     "total": 15,
@@ -15,7 +15,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 389.10690999999997,
+      "durationMs": 503.78608399999996,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully.",
       "remediation": "No action required.",
@@ -29,7 +29,7 @@
         "sourceLabel": "primal.net",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileImage": "https://primal.net/media-cache?u=https%3A%2F%2Fr2.primal.net%2Fcache%2Fe%2F83%2Fb2%2Fe83b2b9f3de47e969ff7ef97b9ddfffb1673671ba25f5ca83421b73ffd0f9ec9.jpg",
         "followersCount": 27,
         "followersCountRaw": "27 followers",
@@ -45,7 +45,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 308.49573899999996,
+      "durationMs": 425.38997400000005,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully. Stable public-cache persistence was skipped for this run, so generated output uses the freshly fetched metadata while the tracked cache manifest stays unchanged.",
       "remediation": "Run `bun run enrich:rich:strict:write-cache` to persist the updated public cache entry.",
@@ -59,7 +59,7 @@
         "sourceLabel": "github.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileImage": "https://avatars.githubusercontent.com/u/3519085?v=4?s=400",
         "followersCount": 107,
         "followersCountRaw": "107 followers",
@@ -116,7 +116,7 @@
         "sourceLabel": "linkedin.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "authenticated_cache",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileDescription": "Software Engineer",
         "profileImage": "cache/rich-authenticated/5bcebfa287d18d2319b5ccd869ee8eee18ae3a711ac0343bd32fb196a64e859b.jpg"
       },
@@ -142,7 +142,7 @@
         "handle": "bright-builds-llc",
         "enrichmentStatus": "skipped",
         "enrichmentReason": "enrichment_disabled",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileDescription": "Chicago software engineering, open-source work, and business updates from Bright Builds LLC.",
         "profileImage": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/643894562_122103916773268128_8808752703618343559_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=loMHlyUSihUQ7kNvwEm9TfM&_nc_oc=Adn_L2k7TaOiRKCU65IsZcDColJR147_JDjDtLAu7BeFgTqd_3_ntE5oclTDS6Y0WCw&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&_nc_gid=2UrEZISz6Y915Sw2y_Kbhw&_nc_ss=8&oh=00_AfxuxRMPjlmAwf2iCW3AYCvMShgZ5YsyrHMy81JEjkfiSg&oe=69BC7C54"
       },
@@ -166,7 +166,7 @@
         "sourceLabel": "facebook.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "authenticated_cache",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileImage": "cache/rich-authenticated/907f849213ad603ab737606ac6a5ced5e58b0e4e969ff9a67517d47c0e9e1230.jpg"
       },
       "blocking": false,
@@ -182,7 +182,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 301.607078,
+      "durationMs": 459.5657080000001,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully.",
       "remediation": "No action required.",
@@ -196,7 +196,7 @@
         "sourceLabel": "app.cluborange.org",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileImage": "https://orange-pill-app-dev.s3.amazonaws.com/avatars/d0dbae3d-66bf-4811-99a6-60280b79b175"
       },
       "blocking": false,
@@ -208,7 +208,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 380.10495900000024,
+      "durationMs": 595.9942919999999,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully. Stable public-cache persistence was skipped for this run, so generated output uses the freshly fetched metadata while the tracked cache manifest stays unchanged.",
       "remediation": "Run `bun run enrich:rich:strict:write-cache` to persist the updated public cache entry.",
@@ -221,7 +221,7 @@
         "sourceLabel": "signup.cluborange.org",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z"
+        "enrichedAt": "2026-11-26T17:41:02.343Z"
       },
       "blocking": false,
       "referral": {
@@ -269,7 +269,7 @@
       "status": "partial",
       "reason": "public_cache",
       "attempts": 2,
-      "durationMs": 567.312981,
+      "durationMs": 540.8435119999999,
       "statusCode": 429,
       "message": "Public metadata fetch failed; using stale committed public cache metadata.",
       "remediation": "Transient fetch failure. Re-run `bun run enrich:rich:strict` later for fresh generated output for 'instagram', then use `bun run enrich:rich:strict:write-cache` if you want to persist the recovered public cache entry.",
@@ -303,7 +303,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 288.41306699999996,
+      "durationMs": 302.34287900000027,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully.",
       "remediation": "No action required.",
@@ -317,7 +317,7 @@
         "sourceLabel": "youtube.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
+        "enrichedAt": "2026-11-26T17:41:02.343Z",
         "profileImage": "https://yt3.googleusercontent.com/I94Dzwhg2Hm5nSo1Kmdf2C0DHKqSMOmPyW4WKPZKsPrdTozJ4VGFYT8a_RWx4qaeUrvLTUGXxg=s900-c-k-c0x00ffffff-no-rj",
         "subscribersCount": 29,
         "subscribersCountRaw": "29 subscribers"
@@ -331,7 +331,7 @@
       "status": "partial",
       "reason": "public_cache",
       "attempts": 2,
-      "durationMs": 283.8329050000002,
+      "durationMs": 378.9305510000004,
       "statusCode": 403,
       "message": "Public metadata fetch failed; using stale committed public cache metadata.",
       "remediation": "Transient fetch failure. Re-run `bun run enrich:rich:strict` later for fresh generated output for 'rumble', then use `bun run enrich:rich:strict:write-cache` if you want to persist the recovered public cache entry.",
@@ -391,7 +391,7 @@
       "status": "fetched",
       "reason": "metadata_complete",
       "attempts": 2,
-      "durationMs": 135.39495799999986,
+      "durationMs": 226.893059,
       "statusCode": 200,
       "message": "Preview metadata fetched successfully.",
       "remediation": "No action required.",
@@ -404,7 +404,7 @@
         "sourceLabel": "open.spotify.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z"
+        "enrichedAt": "2026-11-26T17:41:02.343Z"
       },
       "blocking": false
     },
@@ -412,12 +412,12 @@
       "linkId": "substack",
       "url": "https://peter.ryszkiewicz.us/",
       "status": "fetched",
-      "reason": "metadata_complete",
+      "reason": "public_cache",
       "attempts": 2,
-      "durationMs": 28.434545999999955,
-      "statusCode": 200,
-      "message": "Preview metadata fetched successfully. Stable public-cache persistence was skipped for this run, so generated output uses the freshly fetched metadata while the tracked cache manifest stays unchanged.",
-      "remediation": "Run `bun run enrich:rich:strict:write-cache` to persist the updated public cache entry.",
+      "durationMs": 318.72708500000044,
+      "statusCode": 403,
+      "message": "Public metadata fetch failed; using stale committed public cache metadata.",
+      "remediation": "Transient fetch failure. Re-run `bun run enrich:rich:strict` later for fresh generated output for 'substack', then use `bun run enrich:rich:strict:write-cache` if you want to persist the recovered public cache entry.",
       "metadata": {
         "title": "Peter Ryszkiewicz",
         "description": "I'm an agentic engineer, making things in the AI space, Bitcoin space, and many others.",
@@ -427,15 +427,17 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "peter.ryszkiewicz.us",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:52:44.633Z",
-        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg"
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:34:49.144Z",
+        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg",
+        "subscribersCount": 14,
+        "subscribersCountRaw": "14 subscribers"
       },
       "blocking": false,
-      "supportedProfilePlatform": "substack",
-      "missingProfileFields": [
-        "subscribersCount"
-      ]
+      "cacheKey": "substack",
+      "cacheCapturedAt": "2026-03-08T20:34:49.144Z",
+      "staleCache": true,
+      "supportedProfilePlatform": "substack"
     },
     {
       "linkId": "lemonade-referral",
@@ -443,7 +445,7 @@
       "status": "partial",
       "reason": "metadata_partial",
       "attempts": 2,
-      "durationMs": 471.2516230000001,
+      "durationMs": 994.4885249999998,
       "statusCode": 200,
       "message": "Partial preview metadata found; missing fields will use fallback values.",
       "remediation": "Fill missing preview fields via link.metadata or improve target-site SEO metadata completeness.",
@@ -452,7 +454,7 @@
         "sourceLabel": "lemonade.com",
         "enrichmentStatus": "partial",
         "enrichmentReason": "metadata_partial",
-        "enrichedAt": "2026-11-25T17:52:44.633Z"
+        "enrichedAt": "2026-11-26T17:41:02.343Z"
       },
       "blocking": false,
       "referral": {

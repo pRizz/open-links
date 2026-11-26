@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:52:44.633Z",
+  "generatedAt": "2026-11-26T17:41:02.343Z",
   "links": {
     "primal": {
       "metadata": {
@@ -246,9 +246,11 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "peter.ryszkiewicz.us",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-25T17:42:25.236Z",
-        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg"
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:34:49.144Z",
+        "profileImage": "https://substackcdn.com/image/fetch/$s_!FIuC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45fa5d36-9a9d-489d-9d0b-63ed77ec6f3a_1365x1365.jpeg",
+        "subscribersCount": 14,
+        "subscribersCountRaw": "14 subscribers"
       }
     },
     "lemonade-referral": {
