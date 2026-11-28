@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:19:50.380Z",
+  "generatedAt": "2026-11-28T16:04:01.179Z",
   "links": {
     "primal": {
       "metadata": {
@@ -48,11 +48,11 @@
         "sourceLabel": "x.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "public_cache",
-        "enrichedAt": "2026-11-25T17:42:46.521Z",
+        "enrichedAt": "2026-11-28T15:53:52.327Z",
         "profileDescription": "We the people demand justice for the victims. Otherwise, our politicians no longer represent us. Therefore, no taxation without representation.",
         "profileImage": "https://unavatar.io/x/pryszkie",
-        "followersCount": 1370,
-        "followersCountRaw": "1,370 Followers",
+        "followersCount": 1362,
+        "followersCountRaw": "1,362 Followers",
         "followingCount": 853,
         "followingCountRaw": "853 Following"
       }
@@ -60,14 +60,13 @@
     "linkedin": {
       "metadata": {
         "title": "Peter Ryszkiewicz | LinkedIn",
-        "description": "Talented software engineer, excited to work on new and challenging problems. · Experience: Venmo · Education: Illinois Institute of Technology · Location: Chicago · 215 connections on LinkedIn. View Peter Ryszkiewicz’s profile on LinkedIn, a professional community of 1 billion members.",
+        "description": "Software Engineer",
         "image": "cache/rich-authenticated/5bcebfa287d18d2319b5ccd869ee8eee18ae3a711ac0343bd32fb196a64e859b.jpg",
         "handle": "peter-ryszkiewicz",
         "sourceLabel": "linkedin.com",
         "enrichmentStatus": "fetched",
         "enrichmentReason": "authenticated_cache",
-        "enrichedAt": "2026-11-24T18:43:35.724Z",
-        "profileDescription": "Software Engineer",
+        "enrichedAt": "2026-11-28T15:53:31.973Z",
         "profileImage": "cache/rich-authenticated/5bcebfa287d18d2319b5ccd869ee8eee18ae3a711ac0343bd32fb196a64e859b.jpg"
       }
     },
@@ -216,8 +215,8 @@
         "handle": "peterryszkiewicz",
         "sourceLabel": "medium.com",
         "enrichmentStatus": "fetched",
-        "enrichmentReason": "metadata_complete",
-        "enrichedAt": "2026-11-27T17:04:40.264Z",
+        "enrichmentReason": "public_cache",
+        "enrichedAt": "2026-03-08T20:22:24.909Z",
         "profileImage": "https://cdn-images-1.medium.com/fit/c/150/150/0*_SAmj5J9y1Pv5Ri0.",
         "followersCount": 3300,
         "followersCountRaw": "3.3K followers"
